@@ -73,7 +73,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Servais-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-servais/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-servaislucas68@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:servaislucas68@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:servaislucas68@gmail.com)
 
 <br/>
 
