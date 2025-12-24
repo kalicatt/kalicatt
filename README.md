@@ -17,14 +17,17 @@
 const lucas = {
     role: "Développeur Full-Stack",
     location: "Colmar, Alsace, France",
-    experience: "+2 ans",
-    currentFocus: "Applications Web & Mobile en Production",
-    funFact: "J'ai développé une plateforme SaaS complète utilisée par une vraie entreprise 🚣"
+    education: [
+        "Université de Haute-Alsace 🇫🇷",
+        "Yeungnam University 🇰🇷 - Développement Système & Cloud"
+    ],
+    currentFocus: "Applications Web & Mobile en Production"
 };
 ```
 
+- 🎓 **Diplômé** de l'**Université de Haute-Alsace** et de **Yeungnam University** (Corée du Sud)
 - 🔭 **Projet actuel** : Plateforme SaaS de réservation en production (~30,000 lignes de code)
-- 🌱 **En apprentissage** : React 19, Next.js 15+, Server Components
+- 🌱 **Technologies** : React 19, Next.js 15+, TypeScript, PostgreSQL
 - 💼 **Disponible** pour des opportunités CDI / Freelance
 - 📍 **Localisation** : Colmar, mobile en Alsace et remote
 
@@ -47,7 +50,7 @@ const lucas = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🐳 DevOps
+### 🐳 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -66,6 +69,12 @@ const lucas = {
 ---
 
 ## 🚀 Projet Phare
+
+<div align="center">
+
+[![boat-booking-saas](https://github-readme-stats.vercel.app/api/pin/?username=kalicatt&repo=boat-booking-saas&theme=tokyonight&hide_border=true)](https://github.com/kalicatt/boat-booking-saas)
+
+</div>
 
 ### 🚣 Plateforme SaaS de Réservation
 
@@ -132,6 +141,15 @@ const lucas = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalicatt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
+
+---
+
+## 🎓 Formation
+
+| Université | Pays | Spécialisation |
+|------------|------|----------------|
+| **Université de Haute-Alsace** | 🇫🇷 France | Informatique |
+| **Yeungnam University** | 🇰🇷 Corée du Sud | Développement Système & Cloud |
 
 ---
 
