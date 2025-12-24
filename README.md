@@ -58,8 +58,8 @@
 
 | Université | Pays | Spécialisation |
 |------------|------|----------------|
-| **Université de Haute-Alsace** | 🇫🇷 France | Développement Système & Cloud |
-| **Yeungnam University** | 🇰🇷 Corée du Sud | Capstone Design Project & IA |
+| **Université de Haute-Alsace** | France | Développement Système & Cloud |
+| **Yeungnam University** | Corée du Sud | Capstone Design Project & IA |
 
 ---
 
